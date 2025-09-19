@@ -37,6 +37,7 @@ calculatethearea(20,10,23)
 def fahrenheitconverter(far):
     cel= far - 32 * 5/9
     print('my cel is : ' + str(far))
+fahrenheitconverter(32)  
 
-fahrenheitconverter(32)
+
 
